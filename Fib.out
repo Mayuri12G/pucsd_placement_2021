@@ -1,0 +1,32 @@
+mayuriguldagad@mayuriguldagad-Lenovo-V15-IIL:~/Videos$ gcc Fibonacci.c
+mayuriguldagad@mayuriguldagad-Lenovo-V15-IIL:~/Videos$ ./a.out
+ Enter value for n : 13
+233 	
+ Enter value for Even n th Fib No as N : 3
+34
+mayuriguldagad@mayuriguldagad-Lenovo-V15-IIL:~/Videos$ ./a.out
+ Enter value for n : 21
+10946 	
+ Enter value for Even n th Fib No as N : 10
+832040
+mayuriguldagad@mayuriguldagad-Lenovo-V15-IIL:~/Videos$ ./a.out
+ Enter value for n : 31
+1346269 	
+ Enter value for Even n th Fib No as N : 22
+27777890035288
+mayuriguldagad@mayuriguldagad-Lenovo-V15-IIL:~/Videos$ ./a.out
+ Enter value for n : 47
+2971215073 	
+ Enter value for Even n th Fib No as N : 26  
+8944394323791464
+mayuriguldagad@mayuriguldagad-Lenovo-V15-IIL:~/Videos$ ./a.out
+ Enter value for n : 61
+2504730781961 	
+ Enter value for Even n th Fib No as N : 30
+2880067194370816120
+mayuriguldagad@mayuriguldagad-Lenovo-V15-IIL:~/Videos$ ./a.out
+ Enter value for n : 85
+259695496911122585 	
+ Enter value for Even n th Fib No as N : 30
+2880067194370816120
+
